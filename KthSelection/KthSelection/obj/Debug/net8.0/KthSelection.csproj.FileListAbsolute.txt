@@ -1,0 +1,14 @@
+C:\Users\tsz\source\repos\KthSelection\KthSelection\bin\Debug\net8.0\KthSelection.exe
+C:\Users\tsz\source\repos\KthSelection\KthSelection\bin\Debug\net8.0\KthSelection.deps.json
+C:\Users\tsz\source\repos\KthSelection\KthSelection\bin\Debug\net8.0\KthSelection.runtimeconfig.json
+C:\Users\tsz\source\repos\KthSelection\KthSelection\bin\Debug\net8.0\KthSelection.dll
+C:\Users\tsz\source\repos\KthSelection\KthSelection\bin\Debug\net8.0\KthSelection.pdb
+C:\Users\tsz\source\repos\KthSelection\KthSelection\obj\Debug\net8.0\KthSelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsz\source\repos\KthSelection\KthSelection\obj\Debug\net8.0\KthSelection.AssemblyInfoInputs.cache
+C:\Users\tsz\source\repos\KthSelection\KthSelection\obj\Debug\net8.0\KthSelection.AssemblyInfo.cs
+C:\Users\tsz\source\repos\KthSelection\KthSelection\obj\Debug\net8.0\KthSelection.csproj.CoreCompileInputs.cache
+C:\Users\tsz\source\repos\KthSelection\KthSelection\obj\Debug\net8.0\KthSelection.dll
+C:\Users\tsz\source\repos\KthSelection\KthSelection\obj\Debug\net8.0\refint\KthSelection.dll
+C:\Users\tsz\source\repos\KthSelection\KthSelection\obj\Debug\net8.0\KthSelection.pdb
+C:\Users\tsz\source\repos\KthSelection\KthSelection\obj\Debug\net8.0\KthSelection.genruntimeconfig.cache
+C:\Users\tsz\source\repos\KthSelection\KthSelection\obj\Debug\net8.0\ref\KthSelection.dll
