@@ -1,0 +1,14 @@
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\bin\Debug\net8.0\Hafta3DersKodu4.exe
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\bin\Debug\net8.0\Hafta3DersKodu4.deps.json
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\bin\Debug\net8.0\Hafta3DersKodu4.runtimeconfig.json
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\bin\Debug\net8.0\Hafta3DersKodu4.dll
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\bin\Debug\net8.0\Hafta3DersKodu4.pdb
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\obj\Debug\net8.0\Hafta3DersKodu4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\obj\Debug\net8.0\Hafta3DersKodu4.AssemblyInfoInputs.cache
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\obj\Debug\net8.0\Hafta3DersKodu4.AssemblyInfo.cs
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\obj\Debug\net8.0\Hafta3DersKodu4.csproj.CoreCompileInputs.cache
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\obj\Debug\net8.0\Hafta3DersKodu4.dll
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\obj\Debug\net8.0\refint\Hafta3DersKodu4.dll
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\obj\Debug\net8.0\Hafta3DersKodu4.pdb
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\obj\Debug\net8.0\Hafta3DersKodu4.genruntimeconfig.cache
+C:\Users\tsz\source\repos\Hafta3DersKodu4\Hafta3DersKodu4\obj\Debug\net8.0\ref\Hafta3DersKodu4.dll
