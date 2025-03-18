@@ -1,0 +1,14 @@
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\obj\Debug\net8.0\DivideConquer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\obj\Debug\net8.0\DivideConquer.AssemblyInfoInputs.cache
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\obj\Debug\net8.0\DivideConquer.AssemblyInfo.cs
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\obj\Debug\net8.0\DivideConquer.csproj.CoreCompileInputs.cache
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\bin\Debug\net8.0\DivideConquer.exe
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\bin\Debug\net8.0\DivideConquer.deps.json
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\bin\Debug\net8.0\DivideConquer.runtimeconfig.json
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\bin\Debug\net8.0\DivideConquer.dll
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\bin\Debug\net8.0\DivideConquer.pdb
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\obj\Debug\net8.0\DivideConquer.dll
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\obj\Debug\net8.0\refint\DivideConquer.dll
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\obj\Debug\net8.0\DivideConquer.pdb
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\obj\Debug\net8.0\DivideConquer.genruntimeconfig.cache
+C:\Users\tsz\source\repos\DivideConquer\DivideConquer\obj\Debug\net8.0\ref\DivideConquer.dll
