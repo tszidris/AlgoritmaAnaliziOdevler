@@ -1,0 +1,14 @@
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\bin\Debug\net8.0\kadaneAlgorithm.exe
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\bin\Debug\net8.0\kadaneAlgorithm.deps.json
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\bin\Debug\net8.0\kadaneAlgorithm.runtimeconfig.json
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\bin\Debug\net8.0\kadaneAlgorithm.dll
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\bin\Debug\net8.0\kadaneAlgorithm.pdb
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\obj\Debug\net8.0\kadaneAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\obj\Debug\net8.0\kadaneAlgorithm.AssemblyInfoInputs.cache
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\obj\Debug\net8.0\kadaneAlgorithm.AssemblyInfo.cs
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\obj\Debug\net8.0\kadaneAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\obj\Debug\net8.0\kadaneAlgorithm.dll
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\obj\Debug\net8.0\refint\kadaneAlgorithm.dll
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\obj\Debug\net8.0\kadaneAlgorithm.pdb
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\obj\Debug\net8.0\kadaneAlgorithm.genruntimeconfig.cache
+C:\Users\tsz\source\repos\kadaneAlgorithm\kadaneAlgorithm\obj\Debug\net8.0\ref\kadaneAlgorithm.dll
